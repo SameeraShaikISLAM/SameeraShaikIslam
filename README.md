@@ -18,7 +18,7 @@ My skills include :
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: challenge me sometime, I'm up for everything 
 
-<p> Find me around the web 🌎: </p>
+<h2> Find me around the web 🌎: </h2>
 <p>My Portfolio-Still working on it (coming soon)</p>
 <p>I would love to network with you :) connect with me on Linkedin- <a href="https://www.linkedin.com/in/sameera-shaik/">SameeraShaik</a></p>
 <p>Follow me on Twitter- <a href="https://twitter.com/Tech_junkee@Twitter/">@tech_junkee</a></p>
