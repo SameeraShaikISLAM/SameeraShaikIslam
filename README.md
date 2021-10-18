@@ -20,6 +20,7 @@ My skills include :
 
 <h2> Find me around the web 🌎: </h2>
 <p>My Portfolio-Still working on it (coming soon)</p>
+<p> Find my code on Codepen: <a href="https://codepen.io/Tech_junkee/">@tech_junkee</a></p>
 <p>I would love to network with you :) connect with me on Linkedin- <a href="https://www.linkedin.com/in/sameera-shaik/">SameeraShaik</a></p>
 <p>Follow me on Twitter- <a href="https://twitter.com/Tech_junkee@Twitter/">@tech_junkee</a></p>
 
